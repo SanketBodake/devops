@@ -2,4 +2,8 @@
 
 added new line in abc.txt by sanket
 
+<<<<<<< HEAD
 hiii
+=======
+11000
+>>>>>>> e379781df1153a64c5818b2e390a96a34e77e8b6
